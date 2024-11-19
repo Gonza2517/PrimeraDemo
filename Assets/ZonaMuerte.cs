@@ -10,11 +10,8 @@ public class ZonaMuerte : MonoBehaviour
             RestartScene();
         }
     }
-
-  
     void RestartScene()
     {
-       
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
