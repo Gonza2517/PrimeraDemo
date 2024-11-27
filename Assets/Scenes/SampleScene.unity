@@ -15345,7 +15345,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nombreDeEscena: Nivel2
-  delayAntesDeCambio: 2
+  delayAntesDeCambio: 1
 --- !u!1 &1696726189
 GameObject:
   m_ObjectHideFlags: 0

@@ -93209,7 +93209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96b0b7db9cb0ce24283b61a160e3d759, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreDeEscena: Menu
+  nombreDeEscena: Creditos
   delayAntesDeCambio: 2
 --- !u!61 &1997816667
 BoxCollider2D:
